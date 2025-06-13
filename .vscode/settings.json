@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./clusterizacao/tests/test_"
+    ]
+}
